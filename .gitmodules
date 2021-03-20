@@ -1,0 +1,9 @@
+[submodule "rs-api"]
+	path = rs-api
+	url = git@github.com:tuommii/rs-api.git
+[submodule "rs-device"]
+	path = rs-device
+	url = git@github.com:tuommii/rs-device.git
+[submodule "rs-ui"]
+	path = rs-ui
+	url = git@github.com:tuommii/rs-ui.git

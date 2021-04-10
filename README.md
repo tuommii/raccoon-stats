@@ -15,7 +15,7 @@ For monitoring I'm using *Prometheus* and *Grafana*.
 [Widget](https://github.com/tuommii/rs-device) is made with *Arduino MKR1000* + *RC522* + *LCD 16x2* and coded with C/C++. You can check [source code](https://github.com/tuommii/rs-device/blob/master/device.ino) easily, basically one file.
 
 ## UI
-[UI](https://github.com/tuommii/rs-ui) is made with Vue (**Source code is private before i clean it up**)
+[UI](https://github.com/tuommii/rs-ui) is made with Vue.
 
 ## Video
 Click the image below to see the widget and app in action
